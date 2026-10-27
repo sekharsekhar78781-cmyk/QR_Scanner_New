@@ -17,3 +17,11 @@ dist/
 # Editor
 .vscode/
 
+
+backend/.qr/
+backend/.git-backup/
+backend/.env
+backend/myvenv/
+backend/__pycache__/
+frontend/node_modules/
+frontend/dist/
